@@ -1,0 +1,37 @@
+# compiled output
+/dist
+/node_modules
+.env
+package-lock.json
+downloaded-logs-20221102-193827.json
+logs-app.iml
+result-all-request.json
+result.json
+uno.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
